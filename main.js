@@ -12,7 +12,7 @@ import fs from "fs";
 // ضع توكن Telegram الجديد هنا
 // ======================================================
 
-const TOKEN = "8671197378:AAHAm4HbB9OqzvYpP2CPeI4g4oZHlIwwoDo";
+const TOKEN = "8927498443:AAEU4uiaIGEEQsUmc0g2527FYnAOvoWwWmw";
 
 // ======================================================
 // Facebook RTMPS
